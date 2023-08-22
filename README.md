@@ -19,7 +19,11 @@ Open for contributions
 
 
 ### Get Started :
-Clone the repo, follow the docs, and enhance number-to-words conversion in your applications. Let's make numbers speak!
+Download a postman collection file and import it in postman
+Or
+Add manually api in API Tool as given below content required
+```
+```
 ## POST SOAP - NumberToWords
 
 ##### URL
