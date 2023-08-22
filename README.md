@@ -50,3 +50,34 @@ Content-Length:length
 </soap12:Envelope>
 
 ```
+
+
+## POST REST api - NumberToWords
+
+##### URL
+https://www.dataaccess.com/webservicesserver/NumberConversion.wso/NumberToWords
+
+```
+```
+
+##### Request Headers
+```
+Content-Type:application/json
+
+Content-Length:length
+
+```
+```
+```
+##### Body raw (text)
+
+```
+{
+   "ubiNum": "44"
+}
+
+```
+## Documentation
+
+[SOAP api Test cases](https://github.com/KareenaKambaliya/SOAP-REST-api---NumberToWords/blob/main/SOAP%20api%20atc.xlsx)
+
